@@ -1,0 +1,40 @@
+p
+{
+	text-align: center;
+	font-family: Verdana;
+	color: #C55067;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+li
+{
+	font-family: Verdana;
+	color: #C55067;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h3
+{
+	font-family: Verdana;
+	font-weight: bold;
+	color: #C55067;
+	margin-left: 100px;
+	text-align: center;
+}
+
+hr
+{
+	margin-left: 100px;
+}
+
+a
+{
+	color: #C55067;
+}
+
+body
+{
+	background-image: url(Images/14rose-bkg.gif);
+}

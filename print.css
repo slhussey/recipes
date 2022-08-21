@@ -1,0 +1,31 @@
+p
+{
+	text-align: center;
+	font-family: Verdana;
+	color: #C55067;
+}
+
+li
+{
+	font-family: Verdana;
+	color: #C55067;
+}
+
+h3
+{
+	font-family: Verdana;
+	font-weight: bold;
+	color: #C55067;
+	text-align: center;
+}
+
+a:link:after, a:visited:after
+{
+	content: " (http://www.alistapart.com" attr(href) ") ";
+	font-size: 90%;
+}
+
+#welcome, #footer
+{
+  display: none;
+}
